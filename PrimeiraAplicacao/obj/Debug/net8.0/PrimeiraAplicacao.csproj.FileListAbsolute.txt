@@ -36,3 +36,10 @@ C:\Users\almei\OneDrive\Desktop\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0
 C:\Users\almei\OneDrive\Desktop\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0\PrimeiraAplicacao.pdb
 C:\Users\almei\OneDrive\Desktop\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0\PrimeiraAplicacao.genruntimeconfig.cache
 C:\Users\almei\OneDrive\Desktop\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0\ref\PrimeiraAplicacao.dll
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\bin\Debug\net8.0\PrimeiraAplicacao.exe
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\bin\Debug\net8.0\PrimeiraAplicacao.deps.json
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\bin\Debug\net8.0\PrimeiraAplicacao.runtimeconfig.json
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\bin\Debug\net8.0\PrimeiraAplicacao.dll
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\bin\Debug\net8.0\PrimeiraAplicacao.pdb
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0\PrimeiraAplicacao.genruntimeconfig.cache
+C:\Users\IAALMEIDA\OneDrive - Deloitte (O365D)\Desktop\Projects\alura-c-sharp\PrimeiraAplicacao\obj\Debug\net8.0\ref\PrimeiraAplicacao.dll

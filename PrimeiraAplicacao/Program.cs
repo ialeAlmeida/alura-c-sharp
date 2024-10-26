@@ -39,18 +39,16 @@ for(int i = 0; i < cantorasPrediletas.Count; i++)
 
 Console.WriteLine("\n*********************************************\n");
 
-//List<int> nums = new List<int> { 34, 67, 9, 9 };
-//for (int i = 0; i < nums.Count; i++)
-//{
-//    int somaNums =+ nums[i];
-//    Console.WriteLine(somaNums);
-//}
-//foreach (int num in nums)
-//{
-//    int soma =+ nums[num];
-//    Console.WriteLine(soma);
-//}
+List<int> nums = new List<int> { 34, 67, 9, 9 };
+int soma = 0;
 
+foreach (int num in nums)
+{
+    soma += num;
+}
+Console.WriteLine(soma);
+
+//------------------------------------------------------------------------------------------------------
 
 //string mensagemDeBoasVindas = "Bem vinda a sua biblioteca de músicas online :)";
 //List<string> bandas = new List<string>();

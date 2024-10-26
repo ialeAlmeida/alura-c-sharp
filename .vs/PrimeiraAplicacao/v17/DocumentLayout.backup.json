@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\",
+  "WorkspaceRootPath": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D83053D0-25DA-452D-8DA0-91B3A5794EEA}|PrimeiraAplicacao\\PrimeiraAplicacao.csproj|c:\\users\\almei\\onedrive\\desktop\\alura-c-sharp\\primeiraaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D83053D0-25DA-452D-8DA0-91B3A5794EEA}|PrimeiraAplicacao\\PrimeiraAplicacao.csproj|c:\\users\\iaalmeida\\onedrive - deloitte (o365d)\\desktop\\projects\\alura-c-sharp\\primeiraaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D83053D0-25DA-452D-8DA0-91B3A5794EEA}|PrimeiraAplicacao\\PrimeiraAplicacao.csproj|solutionrelative:primeiraaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\PrimeiraAplicacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\PrimeiraAplicacao\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiraAplicacao\\Program.cs",
-              "ToolTip": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\PrimeiraAplicacao\\Program.cs*",
+              "ToolTip": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\PrimeiraAplicacao\\Program.cs*",
               "RelativeToolTip": "PrimeiraAplicacao\\Program.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T12:30:53.99Z",
               "EditorCaption": ""

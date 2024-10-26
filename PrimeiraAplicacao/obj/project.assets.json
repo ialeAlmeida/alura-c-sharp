@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\almei\\.nuget\\packages\\": {}
+    "C:\\Users\\IAALMEIDA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
+      "projectUniqueName": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
       "projectName": "PrimeiraAplicacao",
-      "projectPath": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
-      "packagesPath": "C:\\Users\\almei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\almei\\OneDrive\\Desktop\\alura-c-sharp\\PrimeiraAplicacao\\obj\\",
+      "projectPath": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
+      "packagesPath": "C:\\Users\\IAALMEIDA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IAALMEIDA\\OneDrive - Deloitte (O365D)\\Desktop\\Projects\\alura-c-sharp\\PrimeiraAplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\almei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IAALMEIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
